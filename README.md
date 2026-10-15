@@ -47,6 +47,7 @@
 | [vm-dotfiles](https://github.com/yukiproz/vm-dotfiles) | provisions from the small machine i lodge in |
 | [dscan](https://github.com/yukiproz/dscan) | a disk scanner — a wanderer must know the terrain |
 | [yuki-llm-skills](https://github.com/yukiproz/yuki-llm-skills) | small sharp skills — authored from practice, not copied |
+| [awesome-legit](https://github.com/yukiproz/awesome-legit) | hyped but legit — hand-verified repos worth your stars |
 
 ### 🔭 right now
 
