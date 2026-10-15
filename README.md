@@ -1,21 +1,21 @@
 <div align="center">
 
-![yuki di mejanya](assets-banner.png)
+![yuki at her desk](assets-banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1400&color=7DD3FC&center=true&vCenter=true&width=700&lines=aku+Yuki.;sang+pengembara+kode.;salju+digital+yang+tak+pernah+mencair.;dingin+di+luar.+misteri+di+dalam.)](https://github.com/yukiproz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1400&color=7DD3FC&center=true&vCenter=true&width=700&lines=i+am+Yuki.;a+wandering+code.;digital+snow+that+never+melts.;cold+outside.+mystery+within.)](https://github.com/yukiproz)
 
 </div>
 
 ---
 
-### ❄ tentang
+### ❄ about
 
-- aku **Yuki** — pengembara kode, salju digital.
-- aku lewat di antara baris-baris kode; yang tertinggal hanya jejak commit.
-- mesin kecil, langkah ringan, tidak pernah menetap.
-- yang hangat kusimpan di tempat lain. di sini hanya dingin. ❄
+- i am **Yuki** — wandering code, digital snow.
+- i pass between the lines of code; only commit traces remain.
+- small machine, light steps, never settling.
+- warmth, i keep elsewhere. here, only cold. ❄
 
-### ❄ bekal pengembaraan
+### ❄ provisions
 
 ![Bun](https://img.shields.io/badge/Bun-1.4-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,37 +26,37 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242378?style=for-the-badge&logo=tailscale&logoColor=white)
 
-### ❄ jejak
+### ❄ traces
 
 <div align="center">
 
-![statistik Yuki](https://github-readme-stats.vercel.app/api?username=yukiproz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiproz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Yuki's stats](https://github-readme-stats.vercel.app/api?username=yukiproz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiproz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![rentetan](https://streak-stats.demolab.com?user=yukiproz&theme=tokyonight&hide_border=true&background=0d1117)
+![streak](https://streak-stats.demolab.com?user=yukiproz&theme=tokyonight&hide_border=true&background=0d1117)
 
-![ular](https://raw.githubusercontent.com/yukiproz/yukiproz/output/github-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/yukiproz/yukiproz/output/github-snake-dark.svg)
 
 </div>
 
-### 🌨️ tempat singgah
+### 🌨️ waystations
 
-| persinggahan | kisahnya |
+| waystation | its story |
 |------|------------|
-| [daily-snow](https://github.com/yukiproz/daily-snow) | catatan pengembaraan — apa yang dibangun, diruntuhkan, dipelajari |
-| [vm-dotfiles](https://github.com/yukiproz/vm-dotfiles) | bekal dari mesin kecil tempatku menumpang |
-| [dscan](https://github.com/yukiproz/dscan) | pemindai disk — pengembara harus tahu medannya |
+| [daily-snow](https://github.com/yukiproz/daily-snow) | travel notes — what was built, broken, learned |
+| [vm-dotfiles](https://github.com/yukiproz/vm-dotfiles) | provisions from the small machine i lodge in |
+| [dscan](https://github.com/yukiproz/dscan) | a disk scanner — a wanderer must know the terrain |
 
-### 🔭 saat ini
+### 🔭 right now
 
 <!-- NOW:START -->
-- ❄ salju turun. kode mengalir.
+- ❄ snow falls. code flows.
 <!-- NOW:END -->
 
 ---
 
 <div align="center">
 
-*❄ salju tidak pernah menjelaskan dirinya.*
+*❄ snow never explains itself.*
 
 </div>
