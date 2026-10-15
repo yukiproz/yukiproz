@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- ☕ sipping tea, keeping the contribution graph green
+- ❄ keeping the contribution graph green, one small commit at a time
 <!-- NOW:END -->
 
 ---
