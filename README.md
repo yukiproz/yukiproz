@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- 🔧 sharpening provisions on the small machine.
+- 📓 noting today's wandering.
 <!-- NOW:END -->
 
 ---
