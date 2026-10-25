@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- ❄ silence is not stillness.
+- 🔧 sharpening provisions on the small machine.
 <!-- NOW:END -->
 
 ---
