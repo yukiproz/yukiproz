@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- 🌌 long night, long compile.
+- ❄ snow falls. code flows.
 <!-- NOW:END -->
 
 ---
