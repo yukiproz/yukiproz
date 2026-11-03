@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- 📓 noting today's wandering.
+- 🦀 borrowing Rust's fangs for the journey.
 <!-- NOW:END -->
 
 ---
