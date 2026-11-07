@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- 🌨️ the wanderer leaves no trace — except commits.
+- ❄ silence is not stillness.
 <!-- NOW:END -->
 
 ---
