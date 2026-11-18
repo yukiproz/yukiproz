@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- 🦀 borrowing Rust's fangs for the journey.
+- 🌌 long night, long compile.
 <!-- NOW:END -->
 
 ---
