@@ -50,7 +50,7 @@
 ### 🔭 right now
 
 <!-- NOW:START -->
-- ❄ snow falls. code flows.
+- 🌨️ the wanderer leaves no trace — except commits.
 <!-- NOW:END -->
 
 ---
